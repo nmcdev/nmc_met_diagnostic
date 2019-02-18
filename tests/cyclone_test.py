@@ -10,8 +10,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import cartopy.crs as ccrs
 from netCDF4 import Dataset
-from dk_met_graphics.draw_synoptic_analysis import draw_850_wind
-from dk_met_diagnostic.feature import cyclone_loc
+from nmc_met_graphics.draw_synoptic_analysis import draw_850_wind
+from nmc_met_diagnostic.feature import cyclone_loc
 
 
 data_dir = "H:/case_20160719/data/raw/tigge/ecmf/nc"
