@@ -43,7 +43,10 @@ setup(
 
     install_requires=['numpy>=1.12.1',
                       'scipy>=0.19.0',
-                      'nmc_met_base']
+                      'nmc_met_base'],
+    dependency_links=[
+       'git+git://github.com/nmcdev/nmc_met_base.git',
+    ]
 )
 
 # development mode (DOS command):

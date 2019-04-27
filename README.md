@@ -11,7 +11,7 @@ Other required packages:
 ## Install
 Using the fellowing command to install packages:
 ```
-  pip install git+git://github.com/nmcdev/nmc_met_diagnostic.git
+  pip install git+git://github.com/nmcdev/nmc_met_diagnostic.git --process-dependency-links
 ```
 
 or download the package and install:
