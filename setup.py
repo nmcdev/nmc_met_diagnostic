@@ -45,7 +45,7 @@ setup(
                       'scipy>=0.19.0',
                       'nmc_met_base'],
     dependency_links=[
-       'git+git://github.com/nmcdev/nmc_met_base.git',
+       'git+https://github.com/nmcdev/nmc_met_base.git@master#egg=nmc_met_base',
     ]
 )
 

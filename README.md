@@ -1,6 +1,9 @@
+# 本程序库已经合并到[nmc_met_base](https://github.com/nmcdev/nmc_met_base)中去, 不再更新。
+
+
 # 气象诊断分析程序库
 提供气象诊断分析程序，包括动力, 热力, 水汽和天气特征分析等。
-本程序库已经合并到[nmc_met_base](https://github.com/nmcdev/nmc_met_base)中去, 不再更新。
+
 
 ## Dependencies
 Other required packages:
